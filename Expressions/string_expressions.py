@@ -1,0 +1,2 @@
+print("man" + "bear" + "pig")
+
