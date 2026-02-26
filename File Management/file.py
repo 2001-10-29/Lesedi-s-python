@@ -8,4 +8,8 @@ newfile.write("Hello Python\n")
 newfile.write("File handling is useful")
 newfile.close()
 
+file =open("output.txt","a")
+file.write("\nLearning step by step")
+file.close()
+
 
