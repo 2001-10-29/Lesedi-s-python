@@ -1,4 +1,2 @@
 Hello Python
 File handling is useful
-Learning step by step
-Appending new line to the file.

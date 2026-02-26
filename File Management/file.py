@@ -18,4 +18,9 @@ file =open("students.txt","a")
 file.write(name +"\n")
 file.close()
 
+file =open("output.txt","w")
+file.write("Hello Python\n")
+file.write("File handling is useful")
+file.close()
+
 
